@@ -1,2 +1,3 @@
 # gittut
+All about git
  
